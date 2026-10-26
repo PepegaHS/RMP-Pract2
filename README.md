@@ -1,4 +1,4 @@
 # pepeganotes
 
-A new Flutter project.
+ПОНТОВЫЙ ПРОЕКТ ПО ЗАМЕТКАМ НА 5
 # RMP-Pract2
