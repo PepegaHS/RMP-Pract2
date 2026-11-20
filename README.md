@@ -1,4 +1,2 @@
-# pepeganotes
+# PepegaNotes
 
-A new Flutter project.
-# RMP-Pract2
